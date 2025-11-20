@@ -1,0 +1,4 @@
+C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\MethodTasks\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\MethodTasks\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.AssemblyInfoInputs.cache
+C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\MethodTasks\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.AssemblyInfo.cs
+C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\MethodTasks\MethodTasks\MethodTasks\obj\Debug\net8.0\MethodTasks.csproj.CoreCompileInputs.cache
