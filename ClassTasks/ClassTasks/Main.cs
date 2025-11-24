@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Zad1;
 using Zad2;
 using Zad3;
+using Zad4;
 
 namespace ClassTasks
 {
@@ -28,6 +29,17 @@ namespace ClassTasks
             Author Sapkowski = new Author("Andrzej", "Sapkowski");
             Book Wiedźmin = new Book("Krew elfów", 2000, Sapkowski);
             Wiedźmin.PrintInformation();
+
+            Console.WriteLine("Zadanie4:");
+            Lion Leon = new Lion("Leon", 10);
+            Horse Konik = new Horse("Konik", 20);
+            List<Zwierze> lista = new List<Zwierze>();
+            lista.Add(Leon);
+            lista.Add(Konik);
+            foreach (var item in lista)
+            {
+                item.DajGlos();
+            }
         }
 
 

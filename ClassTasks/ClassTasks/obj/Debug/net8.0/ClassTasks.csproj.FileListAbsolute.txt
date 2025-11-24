@@ -12,3 +12,4 @@ C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\ClassTasks\ClassTasks\obj\
 C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\ClassTasks\ClassTasks\obj\Debug\net8.0\ClassTasks.pdb
 C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\ClassTasks\ClassTasks\obj\Debug\net8.0\ClassTasks.genruntimeconfig.cache
 C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\ClassTasks\ClassTasks\obj\Debug\net8.0\ref\ClassTasks.dll
+C:\Users\jacuu\source\repos\ćwiczenia logiki z chata\ClassTasks\ClassTasks\obj\Debug\net8.0\ClassTasks.sourcelink.json

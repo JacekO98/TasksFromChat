@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|c:\\users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\classtasks\\classtasks\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|solutionrelative:classtasks\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|c:\\users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\classtasks\\classtasks\\zad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|solutionrelative:classtasks\\zad4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|c:\\users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\classtasks\\classtasks\\zad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|solutionrelative:classtasks\\zad3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|c:\\users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\classtasks\\classtasks\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|solutionrelative:classtasks\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFE22C58-7FE5-428A-ACD2-1F127039E51A}|ClassTasks\\ClassTasks.csproj|c:\\users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\classtasks\\classtasks\\zad2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,32 +30,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 689,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Zad4.cs",
               "DocumentMoniker": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\ClassTasks\\Zad4.cs",
               "RelativeDocumentMoniker": "ClassTasks\\Zad4.cs",
               "ToolTip": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\ClassTasks\\Zad4.cs",
               "RelativeToolTip": "ClassTasks\\Zad4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:03:54.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Zad3.cs",
               "DocumentMoniker": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\ClassTasks\\Zad3.cs",
               "RelativeDocumentMoniker": "ClassTasks\\Zad3.cs",
               "ToolTip": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\ClassTasks\\Zad3.cs",
               "RelativeToolTip": "ClassTasks\\Zad3.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA8wB4AAACJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwB4AAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T19:36:30.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\ClassTasks\\Main.cs",
+              "RelativeDocumentMoniker": "ClassTasks\\Main.cs",
+              "ToolTip": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\ClassTasks\\Main.cs",
+              "RelativeToolTip": "ClassTasks\\Main.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:13:42.415Z",
               "EditorCaption": ""
             },
             {
@@ -68,21 +81,7 @@
               "RelativeToolTip": "ClassTasks\\Zad2.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAwBIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:40:50.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\ClassTasks\\Main.cs",
-              "RelativeDocumentMoniker": "ClassTasks\\Main.cs",
-              "ToolTip": "C:\\Users\\jacuu\\source\\repos\\\u0107wiczenia logiki z chata\\ClassTasks\\ClassTasks\\Main.cs",
-              "RelativeToolTip": "ClassTasks\\Main.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:13:42.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T17:40:50.528Z"
             },
             {
               "$type": "Document",
@@ -94,8 +93,7 @@
               "RelativeToolTip": "ClassTasks\\Zad1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:56:36.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:56:36.401Z"
             }
           ]
         }

@@ -5,20 +5,41 @@ namespace Zad4
     {
         public string Name { get; }
         public int Age { get; }
-        private Zwierze(string Name, int Age)
+        public Zwierze(string Name, int Age)
         {
             this.Name = Name;
             this.Age = Age;
         }
 
-        public void DajGlos()
+        public virtual void DajGlos()
         {
-            Console.WriteLine($"{Name} daje glos");
+            Console.WriteLine($"Daje glos");
         }
     }
 
     public class Lion : Zwierze
     {
+        public Lion(string Name, int Age) : base(Name, Age)
+        {
+        }
+        public override void DajGlos()
+        {
+            Console.WriteLine("Rooarrr");
+        }
+    }
 
+    public class Horse : Zwierze
+    {
+        public Horse(string Name, int Age) : base(Name, Age)
+        {
+        }
+
+        public override void DajGlos()
+        {
+            Console.WriteLine("Ihaaaa");
+
+
+        }
+        
     }
 }
